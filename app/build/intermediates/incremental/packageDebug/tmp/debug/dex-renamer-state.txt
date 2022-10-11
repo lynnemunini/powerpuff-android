@@ -1,0 +1,4 @@
+#Tue Oct 11 15:08:57 EAT 2022
+base.0=/home/lynne/Documents/Projects/powerpuff-android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

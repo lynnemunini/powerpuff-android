@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /home/lynne/.gradle/caches/transforms-3/86b0540221d9d01124ca85086bb88426/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /home/lynne/.gradle/caches/transforms-3/f2ade41fa1efcd46a24a2a60fd2a86ad/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /home/lynne/.gradle/caches/transforms-3/8248fcc96f797a7e7b9a37ba23b16804/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/lynne/.gradle/caches/transforms-3/a9da5c592e24725df37b5090b9e9e6c5/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /home/lynne/.gradle/caches/transforms-3/de2084174799b0a51e8ca960deca9a99/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/lynne/.gradle/caches/transforms-3/aa35665f6728eb91d6cd3d78e56df645/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/lynne/.gradle/caches/transforms-3/2aedd5adeb7209e51d8c7368925e0276/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lynne/.gradle/caches/transforms-3/86683b9cf3017ff7a88a2d395d22cace/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lynne/.gradle/caches/transforms-3/f81dadd26d89f97dc77ab9dd3bdbbf3c/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/lynne/.gradle/caches/transforms-3/e37bee02a67e67f49a19e0318d9d4385/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/lynne/.gradle/caches/transforms-3/5ee17dddeb353206703d3f5306497eee/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/lynne/.gradle/caches/transforms-3/fe5b032f9ae56cb632efafc99f04e3dc/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lynne/.gradle/caches/transforms-3/9a006b4e317e306ac10014634072d5b6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lynne/.gradle/caches/transforms-3/fa85b0cf6f121fb019e46b0217f10c85/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lynne/.gradle/caches/transforms-3/e10f65b2a6c1b2a3b8a65f6f7359569c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/lynne/.gradle/caches/transforms-3/26d7bca839874f89847af5b2e00e9c08/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lynne/.gradle/caches/transforms-3/f5ea133735ead647916d78d4ed4be980/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lynne/.gradle/caches/transforms-3/106001a9dd3c10d126a98ddcdefe3d76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lynne/.gradle/caches/transforms-3/6bfaf9d1ed54a2ee8f91f8005894ddea/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lynne/.gradle/caches/transforms-3/8c746953d2e0bbc4d2e2f30a2bc71936/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lynne/.gradle/caches/transforms-3/02cad257a77b7f6b0ccfd60960e9aa14/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8a0ddfd3f7fbad437588ef51cf643718/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8e229dec940d866d8feaac8f8d933bc4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lynne/.gradle/caches/transforms-3/c25e05ea6083f21318541fbcbb5b9762/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/lynne/.gradle/caches/transforms-3/27fbb1d09ed8131add46734922128897/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /home/lynne/.gradle/caches/transforms-3/508cf2b1f93afa70c9002a92f56cdda3/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/lynne/.gradle/caches/transforms-3/895d8512f88bfa27d4f27c8adb588db0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/lynne/.gradle/caches/transforms-3/d20fafdcc01b619b33074b786c697a06/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lynne/.gradle/caches/transforms-3/78c449498fd0de41dd616f5996d5896b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/lynne/.gradle/caches/transforms-3/4b264a6e520f1ac84466c0f95bad1e01/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lynne/.gradle/caches/transforms-3/b75f01c9491c579dfebaf8fa4f5aa3fa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lynne/.gradle/caches/transforms-3/222bb80f878ef5d966bb73aca00fb44d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lynne/.gradle/caches/transforms-3/64fcb26d77110d818afe3bc8c010e11d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/lynne/.gradle/caches/transforms-3/8ead43e0a6201d0c3a07039b03366cc9/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lynne/.gradle/caches/transforms-3/8554c90c242b267e8aa90e198fd84e3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lynne/.gradle/caches/transforms-3/e85ce719dea8832c71b0e750db177ee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lynne/.gradle/caches/transforms-3/c1374144aa07f2589b5c9f9b92bd3e37/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lynne/.gradle/caches/transforms-3/749e3982266b85c7fab6306a4255b6db/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lynne/.gradle/caches/transforms-3/5adf9fc072d48252a08bf65de3e06df4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lynne/.gradle/caches/transforms-3/3f5546110d54e2a0fb75f40bc3cb1d2b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lynne/.gradle/caches/transforms-3/f0a93e8c4ff20e1e9f78cd2cd0778bd5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:19:5-34:19
+MERGED from [com.google.android.material:material:1.5.0] /home/lynne/.gradle/caches/transforms-3/de2084174799b0a51e8ca960deca9a99/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/lynne/.gradle/caches/transforms-3/de2084174799b0a51e8ca960deca9a99/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/lynne/.gradle/caches/transforms-3/aa35665f6728eb91d6cd3d78e56df645/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/lynne/.gradle/caches/transforms-3/aa35665f6728eb91d6cd3d78e56df645/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lynne/.gradle/caches/transforms-3/c25e05ea6083f21318541fbcbb5b9762/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lynne/.gradle/caches/transforms-3/c25e05ea6083f21318541fbcbb5b9762/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:23:9-61
+	android:icon
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:21:9-50
+	android:allowBackup
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:exported
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:26:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /home/lynne/.gradle/caches/transforms-3/86b0540221d9d01124ca85086bb88426/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /home/lynne/.gradle/caches/transforms-3/86b0540221d9d01124ca85086bb88426/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /home/lynne/.gradle/caches/transforms-3/f2ade41fa1efcd46a24a2a60fd2a86ad/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /home/lynne/.gradle/caches/transforms-3/f2ade41fa1efcd46a24a2a60fd2a86ad/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /home/lynne/.gradle/caches/transforms-3/8248fcc96f797a7e7b9a37ba23b16804/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /home/lynne/.gradle/caches/transforms-3/8248fcc96f797a7e7b9a37ba23b16804/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/lynne/.gradle/caches/transforms-3/a9da5c592e24725df37b5090b9e9e6c5/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /home/lynne/.gradle/caches/transforms-3/a9da5c592e24725df37b5090b9e9e6c5/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /home/lynne/.gradle/caches/transforms-3/de2084174799b0a51e8ca960deca9a99/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/lynne/.gradle/caches/transforms-3/de2084174799b0a51e8ca960deca9a99/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/lynne/.gradle/caches/transforms-3/aa35665f6728eb91d6cd3d78e56df645/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/lynne/.gradle/caches/transforms-3/aa35665f6728eb91d6cd3d78e56df645/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/lynne/.gradle/caches/transforms-3/2aedd5adeb7209e51d8c7368925e0276/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/lynne/.gradle/caches/transforms-3/2aedd5adeb7209e51d8c7368925e0276/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lynne/.gradle/caches/transforms-3/86683b9cf3017ff7a88a2d395d22cace/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lynne/.gradle/caches/transforms-3/86683b9cf3017ff7a88a2d395d22cace/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lynne/.gradle/caches/transforms-3/f81dadd26d89f97dc77ab9dd3bdbbf3c/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/lynne/.gradle/caches/transforms-3/f81dadd26d89f97dc77ab9dd3bdbbf3c/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/lynne/.gradle/caches/transforms-3/e37bee02a67e67f49a19e0318d9d4385/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/lynne/.gradle/caches/transforms-3/e37bee02a67e67f49a19e0318d9d4385/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/lynne/.gradle/caches/transforms-3/5ee17dddeb353206703d3f5306497eee/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/lynne/.gradle/caches/transforms-3/5ee17dddeb353206703d3f5306497eee/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/lynne/.gradle/caches/transforms-3/fe5b032f9ae56cb632efafc99f04e3dc/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/lynne/.gradle/caches/transforms-3/fe5b032f9ae56cb632efafc99f04e3dc/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lynne/.gradle/caches/transforms-3/9a006b4e317e306ac10014634072d5b6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lynne/.gradle/caches/transforms-3/9a006b4e317e306ac10014634072d5b6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lynne/.gradle/caches/transforms-3/fa85b0cf6f121fb019e46b0217f10c85/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lynne/.gradle/caches/transforms-3/fa85b0cf6f121fb019e46b0217f10c85/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lynne/.gradle/caches/transforms-3/e10f65b2a6c1b2a3b8a65f6f7359569c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lynne/.gradle/caches/transforms-3/e10f65b2a6c1b2a3b8a65f6f7359569c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/lynne/.gradle/caches/transforms-3/26d7bca839874f89847af5b2e00e9c08/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lynne/.gradle/caches/transforms-3/26d7bca839874f89847af5b2e00e9c08/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lynne/.gradle/caches/transforms-3/f5ea133735ead647916d78d4ed4be980/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lynne/.gradle/caches/transforms-3/f5ea133735ead647916d78d4ed4be980/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lynne/.gradle/caches/transforms-3/106001a9dd3c10d126a98ddcdefe3d76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lynne/.gradle/caches/transforms-3/106001a9dd3c10d126a98ddcdefe3d76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lynne/.gradle/caches/transforms-3/6bfaf9d1ed54a2ee8f91f8005894ddea/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lynne/.gradle/caches/transforms-3/6bfaf9d1ed54a2ee8f91f8005894ddea/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lynne/.gradle/caches/transforms-3/8c746953d2e0bbc4d2e2f30a2bc71936/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lynne/.gradle/caches/transforms-3/8c746953d2e0bbc4d2e2f30a2bc71936/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lynne/.gradle/caches/transforms-3/02cad257a77b7f6b0ccfd60960e9aa14/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lynne/.gradle/caches/transforms-3/02cad257a77b7f6b0ccfd60960e9aa14/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8a0ddfd3f7fbad437588ef51cf643718/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8a0ddfd3f7fbad437588ef51cf643718/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8e229dec940d866d8feaac8f8d933bc4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lynne/.gradle/caches/transforms-3/8e229dec940d866d8feaac8f8d933bc4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/lynne/.gradle/caches/transforms-3/0226cfa473e29299733fa58d35a66c43/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lynne/.gradle/caches/transforms-3/c25e05ea6083f21318541fbcbb5b9762/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lynne/.gradle/caches/transforms-3/c25e05ea6083f21318541fbcbb5b9762/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/lynne/.gradle/caches/transforms-3/27fbb1d09ed8131add46734922128897/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/lynne/.gradle/caches/transforms-3/27fbb1d09ed8131add46734922128897/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /home/lynne/.gradle/caches/transforms-3/508cf2b1f93afa70c9002a92f56cdda3/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /home/lynne/.gradle/caches/transforms-3/508cf2b1f93afa70c9002a92f56cdda3/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/lynne/.gradle/caches/transforms-3/895d8512f88bfa27d4f27c8adb588db0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/lynne/.gradle/caches/transforms-3/895d8512f88bfa27d4f27c8adb588db0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/lynne/.gradle/caches/transforms-3/d20fafdcc01b619b33074b786c697a06/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/lynne/.gradle/caches/transforms-3/d20fafdcc01b619b33074b786c697a06/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lynne/.gradle/caches/transforms-3/78c449498fd0de41dd616f5996d5896b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lynne/.gradle/caches/transforms-3/78c449498fd0de41dd616f5996d5896b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/lynne/.gradle/caches/transforms-3/4b264a6e520f1ac84466c0f95bad1e01/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/lynne/.gradle/caches/transforms-3/4b264a6e520f1ac84466c0f95bad1e01/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lynne/.gradle/caches/transforms-3/b75f01c9491c579dfebaf8fa4f5aa3fa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lynne/.gradle/caches/transforms-3/b75f01c9491c579dfebaf8fa4f5aa3fa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lynne/.gradle/caches/transforms-3/222bb80f878ef5d966bb73aca00fb44d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lynne/.gradle/caches/transforms-3/222bb80f878ef5d966bb73aca00fb44d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lynne/.gradle/caches/transforms-3/64fcb26d77110d818afe3bc8c010e11d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lynne/.gradle/caches/transforms-3/64fcb26d77110d818afe3bc8c010e11d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/lynne/.gradle/caches/transforms-3/8ead43e0a6201d0c3a07039b03366cc9/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/lynne/.gradle/caches/transforms-3/8ead43e0a6201d0c3a07039b03366cc9/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lynne/.gradle/caches/transforms-3/8554c90c242b267e8aa90e198fd84e3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lynne/.gradle/caches/transforms-3/8554c90c242b267e8aa90e198fd84e3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lynne/.gradle/caches/transforms-3/e85ce719dea8832c71b0e750db177ee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lynne/.gradle/caches/transforms-3/e85ce719dea8832c71b0e750db177ee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lynne/.gradle/caches/transforms-3/c1374144aa07f2589b5c9f9b92bd3e37/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lynne/.gradle/caches/transforms-3/c1374144aa07f2589b5c9f9b92bd3e37/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lynne/.gradle/caches/transforms-3/749e3982266b85c7fab6306a4255b6db/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lynne/.gradle/caches/transforms-3/749e3982266b85c7fab6306a4255b6db/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lynne/.gradle/caches/transforms-3/5adf9fc072d48252a08bf65de3e06df4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lynne/.gradle/caches/transforms-3/5adf9fc072d48252a08bf65de3e06df4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lynne/.gradle/caches/transforms-3/3f5546110d54e2a0fb75f40bc3cb1d2b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lynne/.gradle/caches/transforms-3/3f5546110d54e2a0fb75f40bc3cb1d2b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lynne/.gradle/caches/transforms-3/f0a93e8c4ff20e1e9f78cd2cd0778bd5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lynne/.gradle/caches/transforms-3/f0a93e8c4ff20e1e9f78cd2cd0778bd5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lynne/Documents/Projects/powerpuff-android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/lynne/.gradle/caches/transforms-3/91740498dcd6f7dcec7c6e1bb3a4f036/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/lynne/.gradle/caches/transforms-3/0f6dd92c346cbac0126639fec4309dfa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/lynne/.gradle/caches/transforms-3/9efb97d41d3bfce5806ad995c79b7e3a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
